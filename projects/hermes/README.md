@@ -1,6 +1,6 @@
 # Solarix | Hermes
 
-**Note: This README is extracted from the original source project that I created. Please see [WARNING & COPYRIGHT NOTICE](../../../README.md#warning--copyright-notice) for more info.**
+**Note: This README is extracted from the original source project that I created. Please see [WARNING & COPYRIGHT NOTICE](https://github.com/GabeStah/portfolio-examples/#warning--copyright-notice) for more info.**
 
 ## Configuration
 

@@ -1,4 +1,4 @@
-**Note: This README is extracted from the original source project that I created. Please see [WARNING & COPYRIGHT NOTICE](../../../README.md#warning--copyright-notice) for more info.**
+**Note: This README is extracted from the original source project that I created. Please see [WARNING & COPYRIGHT NOTICE](https://github.com/GabeStah/portfolio-examples/#warning--copyright-notice) for more info.**
 
 An AWS Lambda app that provides a secure API proxy for Google Text-to-Speech API requests.
 
