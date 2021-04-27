@@ -1,6 +1,6 @@
 # Gabe Wyatt Portfolio Examples
 
-## WARNING & COPYRIGHT NOTICE
+## Warning & Copyright Notice
 
 Unless otherwise stated, the snippets and examples in this repository are copyright of the client and/or firm I was working for at the time of their creation.
 

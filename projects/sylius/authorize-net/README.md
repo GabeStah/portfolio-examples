@@ -1,3 +1,5 @@
+**Note: This README is extracted from the original source project that I created. Please see [WARNING & COPYRIGHT NOTICE](../../../README.md#warning--copyright-notice) for more info.**
+
 # SyliusAuthorizeNetPlugin
 
 The SyliusAuthorizeNetPlugin adds [Authorize.net](https://www.authorize.net/) payment gateway support to the [Sylius](https://sylius.com/) platform.

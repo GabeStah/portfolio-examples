@@ -1,5 +1,7 @@
 # Solarix | Hermes
 
+**Note: This README is extracted from the original source project that I created. Please see [WARNING & COPYRIGHT NOTICE](../../../README.md#warning--copyright-notice) for more info.**
+
 ## Configuration
 
 Hermes is deployed to the `docs.solarix.tools` Amazon S3 bucket in the `/hermes` directory.

@@ -1,3 +1,5 @@
+**Note: This README is extracted from the original source project that I created. Please see [WARNING & COPYRIGHT NOTICE](../../../README.md#warning--copyright-notice) for more info.**
+
 # WCASG Extensions Package
 
 ## Predicate

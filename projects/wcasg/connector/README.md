@@ -1,3 +1,5 @@
+**Note: This README is extracted from the original source project that I created. Please see [WARNING & COPYRIGHT NOTICE](../../../README.md#warning--copyright-notice) for more info.**
+
 - [Installation](#installation)
 - [Running Connector](#running-connector)
 - [Usage](#usage)
@@ -5,8 +7,8 @@
   - [Environment Configuration](#environment-configuration)
   - [Connect to MongoDB](#connect-to-mongodb)
   - [Connect to Redis](#connect-to-redis)
+    - [Remote ElastiCache Connection](#remote-elasticache-connection)
   - [Stripe Webhooks](#stripe-webhooks)
-  - [Postman](#postman)
   - [Debugging](#debugging)
   - [Queue / Job Monitoring](#queue--job-monitoring)
 - [Testing](#testing)

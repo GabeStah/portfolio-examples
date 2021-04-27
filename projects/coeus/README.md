@@ -1,3 +1,5 @@
+**Note: This README is extracted from the original source project that I created. Please see [WARNING & COPYRIGHT NOTICE](../../../README.md#warning--copyright-notice) for more info.**
+
 Coeus is an HTTP API providing insightful answers through data.
 
 In Greek mythology [Coeus](https://en.wikipedia.org/wiki/Coeus) is the son of Uranus and Gaia and is the ["Titan of intellect and the axis of heaven around which the constellations revolved"](https://en.wikipedia.org/wiki/List_of_Greek_mythological_figures#Titans_and_Titanesses). The name is derived from the Ancient Greek [κοῖος](https://en.wiktionary.org/wiki/%CE%9A%CE%BF%E1%BF%96%CE%BF%CF%82), meaning "what?, which?, of what kind?, of what nature?".
@@ -5,6 +7,7 @@ In Greek mythology [Coeus](https://en.wikipedia.org/wiki/Coeus) is the son of Ur
 - [1. Conventions and Terminology](#1-conventions-and-terminology)
 - [2. Development](#2-development)
   - [2.1. Dynamic Watches](#21-dynamic-watches)
+  - [TLS Certificate](#tls-certificate)
 - [3. Testing](#3-testing)
   - [3.1. Coverage](#31-coverage)
 - [4. Production](#4-production)

@@ -1,3 +1,5 @@
+**Note: This README is extracted from the original source project that I created. Please see [WARNING & COPYRIGHT NOTICE](../../../README.md#warning--copyright-notice) for more info.**
+
 # Solarix Shipping (PHP)
 
 The Solarix Shipping (PHP) package handles basic shipping tasks with a provider-based plugin system.

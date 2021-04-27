@@ -1,3 +1,5 @@
+**Note: This README is extracted from the original source project that I created. Please see [WARNING & COPYRIGHT NOTICE](../../../README.md#warning--copyright-notice) for more info.**
+
 - [Solarix Resource Names (SRNs)](#solarix-resource-names-srns)
   - [SRN Format](#srn-format)
   - [SRN Tag Hierarchy](#srn-tag-hierarchy)

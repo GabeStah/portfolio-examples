@@ -1,3 +1,5 @@
+**Note: This README is extracted from the original source project that I created. Please see [WARNING & COPYRIGHT NOTICE](../../../README.md#warning--copyright-notice) for more info.**
+
 - [App Architecture](#app-architecture)
 - [Widget Theme](#widget-theme)
   - [Adding a New Theme](#adding-a-new-theme)
